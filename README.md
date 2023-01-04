@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Edward Guevarra
 =======================================================================================================================================
 
-Web Developer
+Full Stack Web Developer
 -------------
 
 As a web developer, I have developed a strong foundation in HTML, CSS, and JavaScript, as well as experience with server-side languages such as PHP and Node.js. I have a passion for staying up-to-date with the latest technologies and best practices, and I am always eager to tackle new challenges and find creative solutions. In addition, I have a strong desire to mentor and teach others, and I enjoy sharing my knowledge and experience with my colleagues and peers. I am a dedicated and driven web developer who is committed to constantly improving and growing in my field.
