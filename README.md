@@ -11,7 +11,7 @@ As a web developer, I have developed a strong foundation in HTML, CSS, and JavaS
 * 🚀  I'm currently working on [Geer Solutions](https://geersolutions.com)
 * 🧠  I'm learning React and Tailwind
 * 🤝  I'm open to collaborating on any kind of projects
-* ⚡  I like play games and watch animes! Also big fan of vtubers!
+* ⚡  I like to play games and watch animes! Also big fan of vtubers!
 
 ### Skills
 
