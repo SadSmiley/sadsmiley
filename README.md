@@ -6,7 +6,7 @@ As a web developer, I have developed a strong foundation in HTML, CSS, and JavaS
 * 🌍  I'm based in Philippines <!-- * 🖥️  See my portfolio at [this website](https://sadsmiley.github.io) -->
 * ✉️  You can contact me at [shizokura.dev@gmail.com](mailto:shizokura.dev@gmail.com)
 * 🚀  I'm currently working on [Geer Solutions](https://geersolutions.com)
-* 🧠  I'm learning React and Tailwind
+* 🧠  I'm learning NextJS
 * 🤝  I'm open to collaborating on any kind of projects
 * ⚡  I like to play games and watch animes! Also big fan of vtubers!
 
