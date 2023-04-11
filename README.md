@@ -1,7 +1,7 @@
 Full Stack Web Developer
 -------------
 
-As a web developer, I have developed a strong foundation in HTML, CSS, and JavaScript, as well as experience with server-side languages such as PHP and Node.js. I have a passion for staying up-to-date with the latest technologies and best practices, and I am always eager to tackle new challenges and find creative solutions. In addition, I have a strong desire to mentor and teach others, and I enjoy sharing my knowledge and experience with my colleagues and peers. I am a dedicated and driven web developer who is committed to constantly improving and growing in my field.
+I have developed a strong foundation in HTML, CSS, and JavaScript, as well as experience with server-side languages such as PHP and Node.js. I have a passion for staying up-to-date with the latest technologies and best practices, and I am always eager to tackle new challenges and find creative solutions. In addition, I have a strong desire to mentor and teach others, and I enjoy sharing my knowledge and experience with my colleagues and peers. I am a dedicated and driven web developer who is committed to constantly improving and growing in my field.
 
 * 🌍  I'm based in Philippines <!-- * 🖥️  See my portfolio at [this website](https://sadsmiley.github.io) -->
 * ✉️  You can contact me at [shizokura.dev@gmail.com](mailto:shizokura.dev@gmail.com)
