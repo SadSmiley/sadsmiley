@@ -33,4 +33,4 @@ I have developed a strong foundation in HTML, CSS, and JavaScript, as well as ex
 </p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shizokura&show_icons=true&theme=transparent)
