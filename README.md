@@ -8,7 +8,7 @@ I have developed a strong foundation in HTML, CSS, and JavaScript, as well as ex
 * 🚀  I'm currently working on [Geer Solutions](https://geersolutions.com)
 * 🧠  I'm learning NextJS
 * 🤝  I'm open to collaborating on any kind of projects
-* ⚡  I like to play games and watch animes! Also big fan of vtubers!
+* ⚡  I like to play games and watch anime! Also big fan of vtubers!
 
 ### Skills
 
