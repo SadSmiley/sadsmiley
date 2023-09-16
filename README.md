@@ -3,7 +3,8 @@ Full Stack Web Developer
 
 I have developed a strong foundation in HTML, CSS, and JavaScript, as well as experience with server-side languages such as PHP and Node.js. I have a passion for staying up-to-date with the latest technologies and best practices, and I am always eager to tackle new challenges and find creative solutions. In addition, I have a strong desire to mentor and teach others, and I enjoy sharing my knowledge and experience with my colleagues and peers. I am a dedicated and driven web developer who is committed to constantly improving and growing in my field.
 
-* 🌍  I'm based in Philippines <!-- * 🖥️  See my portfolio at [this website](https://sadsmiley.github.io) -->
+* 🌍  I'm based in Philippines
+* 🖥️  See my portfolio at [this website](https://shizo.dev)
 * ✉️  You can contact me at [edwardguevarra2003@gmail.com](mailto:edwardguevarra2003@gmail.com)
 * 🚀  I'm currently working on [Geer Solutions](https://geersolutions.com)
 * 🧠  I'm learning NextJS
