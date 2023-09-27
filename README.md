@@ -5,8 +5,7 @@ I have developed a strong foundation in HTML, CSS, and JavaScript, as well as ex
 
 * 🌍  I'm based in Philippines
 * 🖥️  See my portfolio at [this website](https://shizo.dev)
-* ✉️  You can contact me at [edwardguevarra2003@gmail.com](mailto:edwardguevarra2003@gmail.com) <!-- * 🚀  I'm currently working on [Geer Solutions](https://geersolutions.com) -->
-* 🧠  I'm learning NextJS
+* ✉️  You can contact me at [edwardguevarra2003@gmail.com](mailto:edwardguevarra2003@gmail.com) <!-- * 🚀  I'm currently working on [Geer Solutions](https://geersolutions.com) -->* 🧠  I'm learning NextJS
 * 🤝  I'm open to collaborating on any kind of projects
 * ⚡  I like to play games and watch anime! Also big fan of vtubers!
 
